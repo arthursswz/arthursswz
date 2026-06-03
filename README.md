@@ -1,20 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:FF00FF,100:39FF14&height=160&section=header&text=JO%C3%83O%20ARTHUR&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=000000&text=JO%C3%83O%20ARTHUR&fontColor=00FF41&fontSize=36&fontAlignY=52&desc=%3E%20terminal%20session%20initialized&descAlignY=78&descSize=14" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&duration=1200&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=JO%C3%83O+ARTHUR;J0%C3%83O+4RTHUR;J%23%C3%83O+ARTH%CE%A3R;%E2%96%88%E2%96%88%C3%83O+ARTHUR;JO%C3%83O+ARTHUR" alt="Glitch Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=850&pause=300&color=00FF41&center=true&vCenter=true&width=850&lines=%24+whoami;%3E+joao_arthur;%24+loading+github_stats...;%3E+access_granted;%24+run+profile.sh" alt="Terminal Typing" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=900&pause=300&color=FF00FF&center=true&vCenter=true&width=800&lines=%3E+SYSTEM+ONLINE...;%3E+LOADING+STATS...;%3E+SIGNAL+UNSTABLE...;%3E+ACCESS+GRANTED..." alt="System Glitch" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F7FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/SIGNAL-UNSTABLE-FF00FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/MODE-NEON-39FF14?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/TERMINAL-ACTIVE-000000?style=for-the-badge&labelColor=000000&color=00FF41" />
+<img src="https://img.shields.io/badge/SESSION-ROOT-000000?style=for-the-badge&labelColor=000000&color=00FF41" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&labelColor=000000&color=00FF41" />
 
 </div>
 
@@ -22,7 +18,16 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,mysql,git,github,vscode" />
+```txt
+┌──────────────────────────────────────────────┐
+│              SYSTEM INFORMATION              │
+├──────────────────────────────────────────────┤
+│ user      : João Arthur                       │
+│ mode      : terminal                          │
+│ focus     : automation | backend | web        │
+│ stack     : js | ts | node | mysql | git      │
+└──────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -30,9 +35,20 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthursswz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=ff00ff&text_color=c9d1d9" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41&labelColor=000000" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthursswz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9" />
+</div>
+
+
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=arthursswz&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=terminal%20activity%20graph" />
 
 </div>
 
@@ -40,23 +56,12 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=arthursswz&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=39FF14&sideNums=00F7FF&currStreakNum=FF00FF" />
+```txt
+[████████████████████████████████████████] 100%
+session loaded successfully.
+```
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arthursswz&bg_color=0d1117&color=00f7ff&line=ff00ff&point=39ff14&area=true&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=arthursswz&label=PROFILE%20VIEWS&color=00f7ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=arthursswz&label=terminal%20visits&color=00ff41&style=for-the-badge" />
 
 </div>
 
@@ -64,6 +69,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:FF00FF,100:00F7FF&height=110&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=45&color=000000&text=%3E%20logout%20joao_arthur&fontColor=00FF41&fontSize=14" />
 
 </div>
